@@ -1,5 +1,5 @@
 # Data_science_bootcamp_8
-This course is learning about data science which instructure is [Datarokie](https://www.facebook.com/datarockie).This we 've learned about 
+This course is learning about data science who a instructure is [Datarokie](https://www.facebook.com/datarockie).This course,we learned in 
 - Spreadsheets
 - Databases
 - R Programming
