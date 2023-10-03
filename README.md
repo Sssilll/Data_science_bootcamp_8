@@ -12,6 +12,7 @@ This course is learning about data science who a instructure is [Datarokie](http
 - Dashboard
 
 This github is created to gathering homeworks for this bootcamp.It's second brain for me.
+>Your mind is for having ideas, not holding them. - David Allen
 
 
 
